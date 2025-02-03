@@ -1,3 +1,4 @@
+Forked from https://github.com/24mlight/A_Share_investment_Agent
 # AI 投资系统
 
 这个系统目前是只支持 A 股的哈。
