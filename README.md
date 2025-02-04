@@ -1,4 +1,8 @@
 Forked from https://github.com/24mlight/A_Share_investment_Agent
+Converted from poetry to uv cf. [link](https://stackoverflow.com/questions/79118841/how-to-migrate-from-poetry-to-uv-package-manager)
+
+---
+
 # AI 投资系统
 
 这个系统目前是只支持 A 股的哈。
